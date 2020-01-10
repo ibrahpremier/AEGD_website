@@ -105,7 +105,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             <div class="copy-right-text">
-              <p>&copy; Copyright sicomp, tous droit reservés. <a href="http://digital-co.ci" target="blank"> By Digital-co</a> </p>
+              <p>&copy; Copyright AEGD, tous droit reservés. <a href="http://digital-co.ci" target="blank"> By AEGDeveloppement</a> </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
