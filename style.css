@@ -5163,3 +5163,7 @@ div#sticker {
 .no-backghround {
   background: transparent !important;
 }
+
+.medium-text {
+  background: rgba(0, 0, 0, 0.72);
+}

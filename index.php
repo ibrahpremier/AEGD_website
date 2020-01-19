@@ -52,14 +52,14 @@
 					<!-- <img src="img/slider/1.jpg" alt="" title="#slider-direction-1"  /> -->
 					<img src="img/slide1.jpg" alt="" title="#slider-direction-1"  />
           <img src="img/slide2.jpg" alt="" title="#slider-direction-2"  />
-          <img src="img/slide3.jpg" alt="" title="#slider-direction-3"  /> 
+          <!-- <img src="img/slide3.jpg" alt="" title="#slider-direction-3"  />  -->
 				</div>
 				<!-- direction 1 -->
 				<div id="slider-direction-1" class="t-cn slider-direction">
 					<div class="slider-content t-cn s-tb slider-1">
 						<div class="title-container s-tb-c title-compress">
-							<div class="medium-text" >Equipements </div>
-							<h1 class="title1">détection et sureté</h1>
+							<div class="medium-text" style="background: rgba(0, 0, 0, 0.72)" >informatique </div>
+							<h2 class="title1" style="background: rgba(0, 0, 0, 0.72)">DÉVELOPPEMENT DE LOGICIELS, D'APPLICATIONS WEB / MOBILE</h2>
 							<div class="read-more">
 								<ul>
 									<li><a href="#">Demander un devis gratuit <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
@@ -73,8 +73,8 @@
 				<div id="slider-direction-2" class="t-cn slider-direction">
 					<div class="slider-content t-cn s-tb slider-1">
 						<div class="title-container s-tb-c title-compress">
-							<div class="medium-text" >Equipements</div>
-							<h1 class="title1">pesage</h1>
+							<div class="medium-text" >Genie Civil</div>
+							<h1 class="title1" style="background: rgba(0, 0, 0, 0.72)">Batiment et travaux publics</h1>
 							<div class="read-more">
 								<ul>
 									<li><a href="#">Demander un devis gratuit <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
@@ -85,7 +85,7 @@
 					</div>	
 				</div>
 				<!-- direction 3 -->
-				<div id="slider-direction-3" class="t-cn slider-direction">
+				<!-- <div id="slider-direction-3" class="t-cn slider-direction">
 					<div class="slider-content t-cn s-tb slider-1">
 						<div class="title-container s-tb-c title-compress">
 							<div class="medium-text" >Equipements</div>
@@ -93,12 +93,12 @@
 							<div class="read-more">
 								<ul>
 									<li><a href="#">Demander un devis gratuit <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
-									<!-- <li><a href="#">Nous contacter <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li> -->
+									 <li><a href="#">Nous contacter <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a></li>
 								</ul>
 							</div>
 						</div>
 					</div>	
-				</div>
+				</div> -->
 			</div>
 		</div>
     <!-- Slider Area End Here -->

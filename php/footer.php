@@ -68,7 +68,6 @@
                       <li class="active"><a href="./">Accueil</a> </li> 
                       <li><a href="about.php">A propos de nous</a></li>
                       <li><a href="services.php">Nos Services</a></li>
-                      <li><a href="equipements.php">equipements</a></li>
                       <li><a href="./#contactus">Contact</a></li>
                     </ul>
                 </nav>
@@ -85,7 +84,7 @@
                   <ul>
                     <li><i class="fa fa-map-marker"></i> Ouagadougou 2000, Secteur 53. <br> 01 BP 1370 Ouagadougou 01</li>
                     <li> <i class="fa fa-phone"></i> (+225) 64 49 66 06 /  70 75 14 44</li>
-                    <li> <i class="fa fa-envelope"></i> saegdevelopment19@gmail.com</li>
+                    <li> <i class="fa fa-envelope"></i> aegdevelopment19@gmail.com</li>
                   </ul>
                 </nav>
               <div class="footer-social-media">

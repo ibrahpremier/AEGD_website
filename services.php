@@ -66,7 +66,7 @@
         <div class="container">
           <!-- 01 -->
           <div class="row" id="metrologie">
-              <h2>MÉTROLOGIE</h2>
+              <h2>service 1</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
@@ -80,7 +80,7 @@
           </div>
 
           <div class="row" id="instrumentation">
-              <h2>INSTRUMENTATION</h2>
+              <h2>service 2</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
@@ -96,12 +96,12 @@
 
           <!-- 02 -->
           <div class="row padding-top2" id="maintenance">
-              <h2>MAINTENANCE ET ENTRETIEN</h2>
+              <h2>service 3</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
                     <p>La maintenance de vos équipements vous permet de garantir son bon état afin d’amortir le cout relatif a son acquisition.</p>
-                    <p><b>SICOMP</b> met à votre disposition son expertise pour la maintenance et l’entretien de vos : <br>
+                    <p><b>Nous</b> met à votre disposition son expertise pour la maintenance et l’entretien de vos : <br>
                     <ul>
                       <li>Equipements industriels,</li>
                       <li> Equipements Géotechniques,</li>
@@ -118,7 +118,7 @@
           </div>
 
           <div class="row" id="electricite">
-              <h2>ELECTRICITÉ</h2>
+              <h2>Service 4</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
@@ -141,7 +141,7 @@
           </div>
           <!-- 03 -->
           <div class="row padding-top2" id="distribution">
-              <h2>DISTRIBUTION-VENTE</h2>
+              <h2>Service 5</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
@@ -161,7 +161,7 @@
           </div>
 
           <div class="row" id="representation">
-              <h2>REPRESENTATION COMMERCIALE</h2>
+              <h2>Service 6</h2>
             <div class="col-md-1"></div>
             <div class="col-md-11">
                 <div class="col-md-6">
