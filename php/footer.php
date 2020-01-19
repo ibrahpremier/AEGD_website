@@ -53,11 +53,14 @@
       <div class="footer-top-area">
         <div class="container">
           <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-3 col-xs-12">
               <div class="single-footer footer-one">
                 <h3>A propos de nous</h3>
-                <p>SICOMP   est une entreprise spécialisée dans le domaine la métrologie, l’électricité, la distribution-vente, la maintenance & entretien, la représentation commerciale ...<a href="about.php">lire la suite</a>
-</p>
+                <p>
+                AFRICA EAGLES GROUP DEVELOPMENENT (AEDG) <br>
+                est une entreprise  spécialisé dans la prestation de services informatique et génie civil.</p>
+                <p>Nous sommes spécialisés dans la mise en place des PGI/ERP, le E-management, le consulting, le Web Services, la formation du personnel d’entreprise ainsi que l’étude <br> ...<a href="about.php"> Lire la suite</a>
+                </p>
               </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -67,31 +70,28 @@
                     <ul id="nav">
                       <li class="active"><a href="./">Accueil</a> </li> 
                       <li><a href="about.php">A propos de nous</a></li>
-                      <li><a href="services.php">Nos Services</a></li>
+                      <li><a href="./#services">Nos Services</a></li>
                       <li><a href="./#contactus">Contact</a></li>
                     </ul>
                 </nav>
               </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
-              <div class="single-footer footer-three">
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="col-lg-5 col-md-5 col-sm-3 col-xs-12">
               <div class="single-footer footer-four">
                 <h3>Adresses</h3>
-                <nav>
-                  <ul>
-                    <li><i class="fa fa-map-marker"></i> Ouagadougou 2000, Secteur 53. <br> 01 BP 1370 Ouagadougou 01</li>
-                    <li> <i class="fa fa-phone"></i> (+225) 64 49 66 06 /  70 75 14 44</li>
-                    <li> <i class="fa fa-envelope"></i> aegdevelopment19@gmail.com</li>
-                  </ul>
-                </nav>
+                <p>
+                AEGD Sarl au capital de 1.000.000 F CFA <br>
+                  <u>Siège social: </u>sise à Ouaga 2000 (secteur 53) non loin de la maternité de Bogodogo Trame d’accueil; <br> 01 BP 1370 Ouagadougou 01 <br>
+                  <u>Tél:</u>  (226) 70 75 13 44 – 64 49 66 06 – 63 76 94 66 <br>
+                  <u>IFU:</u>  00128609E ; <u>RCCM:</u>  BFOUA2019B9365 ;  <u>CNSS:</u> 1328993B <br>
+                  <u>Email:</u>  contact@aegdevelopment.com <br>
+                  <u>Site web: </u> <a href="http://www.aegdevelopment.com">www.aegdevelopment.com</a>
+                </p>
               <div class="footer-social-media">
                 <ul id="fnav">
-                  <li><a href="https://www.facebook.com/sicomp.inter.5" target="blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a></li>
-                  <li><a href="https://twitter.com/SICOMP10" target="blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
-                  <li><a href="http://linkedin.com/in/sicomp-sarl-99815a195" target="blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a></li>
+                  <li><a href="https://www.facebook.com/" target="blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a></li>
+                  <li><a href="https://twitter.com/" target="blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+                  <li><a href="http://linkedin.com/" target="blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a></li>
                 </ul>
               </div>
               </div>

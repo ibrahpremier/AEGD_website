@@ -12,7 +12,7 @@
                     <ul id="nav">
                       <li class="active"><a href="./">Accueil</a>
                       </li> 
-                      <li><a href="services.php">Nos Services</a></li>
+                      <li><a href="./#services">Nos Services</a></li>
                       <li><a href="about.php">A propos de nous</a></li>
                       <li><a href="./#contactus">Nous Contacter</a></li>
                     </ul>

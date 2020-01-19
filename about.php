@@ -67,10 +67,39 @@
           <div class="row about-text">
             <div class="col-md-9">
             <h2>A PROPOS DE NOUS</h2>
-                <p><span class="ent-name">AFRICA EAGLES GROUP DEVELOPMENENT </span>(AEDG) est une entreprise spécialisée dans le domaine Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus quis, ducimus odio vero dicta, quam harum non provident cupiditate dolores blanditiis eius quas accusamus id, sed dolore excepturi sit quisquam.</p>
-                <p>Nos prestations sont destinées aux Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur officiis saepe, deleniti, voluptatem non dolores odio cum repellendus laboriosam neque voluptas, minima libero architecto recusandae natus odit dicta veritatis earum.</p> 
-                <p>Elle met à disposition de ses clients et des entreprises son expertise technologique et son savoir faire pour répondre aux normes de qualité les plus stricts.</p>
-                <p>Nous concentrons nos efforts non seulement sur la qualité de nos produits mais également sur la qualité du service, et la satisfaction globale des besoins et sur les attentes des entreprises.</p>
+                <p><span class="ent-name">AFRICA EAGLES GROUP DEVELOPMENENT (AEDG)</span> 
+                est une entreprise  spécialisé dans la prestation de services informatique et génie civil.</p>
+                <p>Nous sommes spécialisés dans la mise en place des PGI/ERP, le E-management, le consulting, le Web Services, la formation du personnel d’entreprise ainsi que l’étude, fourniture et installation des IT Solutions et ce, tout en assurant le suivi, les conseils et les services après-vente, en ce qui concerne le volet informatique.</p>
+                <p>Pour ce qui est du volet génie civil concerne les études, réalisations et réhabilitations des ouvrages de génie civil (bâtiments, routes, hydrauliques et aménagements hydro-agricole).</p><br>
+
+            <h2>NOTRE VISION</h2>
+                <p>L’Afrique est un continent où tout est à faire et à refaire. Les marchés sont vierges. Cette triste réalité est une opportunité de croissance sans précèdent. Pour rendre les marchés solvables une classe moyenne doit émerger.</p>
+                <p>Et même les peu d’entreprises existantes sont dépourvue d’un certain dynamisme. Alors nous travaillons à nous approprier les meilleures pratiques de gestion et à ensuite les mettre à la disposition de ceux qui comme nous en on besoin.</p> <br>
+
+            <h2>NOTRE VISION</h2>
+            <p>Des missions variées en informatique (allant du conseil à l’opérationnel). L’informatique s’est diversifié avec le temps tout en occupant une place toujours plus stratégique au sein des entreprises.</p>
+            <p>Par conséquent, nos missions varient énormément en fonction du contexte et des besoins de nos clients. Nous proposons l’ensemble de ces prestations à nos clients: Conseils, audit et stratégie ; installation de parc informatique, de stockage et de réseau ; maintenance du parc informatique en état de fonctionnement ; fournisseur de service.</p>
+            <p>Dans le domaine de génie civil, notre mission est de réaliser les travaux selon les exigences de nos clients et ce dans le respect de nos partenaires. </p>
+            <p>Afin d’accomplir notre mission, nous basons nos décisions professionnelles sur les valeurs suivantes: <br>
+              Satisfaction du client, fierté de notre entreprise et de notre travail, respect de nos partenaires, loyauté, attitude responsable, travail d’équipe.</p>
+
+              <h2>NOTRE METIER</h2>
+              <p>Nous sommes des optimisateurs de performances. Nous travaillons à améliorer les performances de nos clients en mettant à leur disposition des techniques de gestion adaptés à leurs réalités, et en les tenant informés des meilleures pratiques de gestion efficace de leur l’entreprise.</p>
+
+              <h2>NOS VALEUR</h2>
+              <p>En plus de vendre des produits, nous proposons des solutions pour les problèmes que nous avons identifiés ou qui nous ont été démontrés par nos clients.</p>
+              <p>Notre collaboration avec le client est basée sur une relation de confiance et les liens de partenariat que nous établissons dans la durée, au-delà des prestations réalisées, de ce fait, le client n’est pas celui à qui nous soutirons de l’argent. Nous somme même prêts à lui offrir gratuitement des solutions pourvu qu’il revienne nous en demander encore même si c’est gratuitement car un client satisfait nous offrira tout ce que nous voulons et mieux que l’argent. </p>
+
+              <h2>NOS PARTENAIRES</h2>
+              <p>Nous bénéficions des expertises variées d’un vaste réseau de particuliers à travers le monde : <br>
+              Canada, Allemagne, Brésil, France, Turquie, Grande Bretagne, Belgique, Chine, Inde, Corée du sud et partout en Afrique Centrale et de l’Ouest. 
+              </p>
+              
+ 
+
+                 
+
+
             </div>
 
           </div>

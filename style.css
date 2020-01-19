@@ -156,7 +156,7 @@ h3 {
 a {
   transition: all 0.5s ease 0s;
   text-decoration: none;
-  color: #333333;
+  /* color: #333333; */
 }
 a:hover {
   color: #08838f;
@@ -207,7 +207,7 @@ body {
 
 #contactus{
   color: #ffffff;
-  background:url('img/btp-1600x900.jpg');
+  background:url('img/btp.jpg');
   background-repeat: no-repeat;
 }
 
@@ -713,12 +713,12 @@ div#sticker {
   text-decoration: none;
   padding: 9px 30px;
   border: 2px solid #153607;
-  color: #153607;
+  /* color: #153607; */
   transition: all 0.5s ease 0s;
 }
 .slider-bottom-area .single-business .read-more a:hover {
-  background: #153607;
-  border: 2px solid #153607;
+  background: #2E3091;
+  border: 2px solid #333333;
   color: #ffffff;
 }
 .slider-bottom-area .slider-bottom .total-business .single-business .read-more a:hover {
@@ -781,7 +781,8 @@ div#sticker {
   margin-right: 80px;
 }
 .homepage-about-us-area .about-content-area {
-  background: #153607;
+  background: #333333;
+  /* background: #2E3091; */
   color: #ffffff;
   padding: 65px 60px 30px;
 }
@@ -1309,7 +1310,8 @@ div#sticker {
   line-height: 1.55;
 }
 .footer-area .footer-top-area {
-  background: #153607;
+  background: #2E3091;
+  /* background: #333333; */
   padding: 90px 0 50px;
 }
 .footer-area .footer-top-area .single-footer p {

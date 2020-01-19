@@ -110,66 +110,124 @@
             <h3 class="text-center">--- INFORMATIQUES ---</h3>
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-presentation"></span>-->
-              <img src="img/home/maintenance.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Conception / Developpement d'applications</a></h3>
+              <img src="img/services/etude.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Etude, conseil et développement de solutions informatiques spécifiques</a></h3>
               <div class="read-more"><a href="services.php#metrologie">En savoir plus</a></div>
             </div>
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-graph"></span>-->
-              <img src="img/home/maintenance.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Installation / Maintenance de parc informatiques et stockage de reseau</a></h3>
+              <img src="img/services/fourniture-logiciel.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Fourniture de logiciels standard de gestion d’entreprise</a></h3>
+              <div class="read-more"><a href="services.php#instrumentation">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-graph"></span>-->
+              <img src="img/services/conception.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Conception et réalisation des applications web </a></h3>
               <div class="read-more"><a href="services.php#instrumentation">En savoir plus</a></div>
             </div>
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-finances"></span>-->
-              <img src="img/home/maintenance.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Conseils et audits</a></h3>
+              <img src="img/services/logiciel.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Développement de logiciels spécifiques sur demande</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+        </div>
+        <div class="row home-services">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/fourniture.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Fourniture des ordinateurs et autres équipements informatiques</a></h3>
               <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
             </div>
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-finances"></span>-->
-              <img src="img/home/maintenance.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Formations en logiciel informatique</a></h3>
+              <img src="img/services/systeme.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Installation et configuration de logiciels et systèmes d'exploitation</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/siteweb.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Conception et hébergement des sites web</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/audit.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Audit et controle</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+        </div>
+        <div class="row home-services">
+            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/installation_reseau.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Installation, configuration et soutien des réseaux informatiques hard & soft</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/erp.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Intégration de progiciel de gestion intégré erp pour pme/pmi, grande, moyenne et petite entreprise</a></h3>
+              <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-finances"></span>-->
+              <img src="img/services/app-informatique.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Conceptions, développement et maintenance des applications informatiques</a></h3>
               <div class="read-more"><a href="services.php#maintenance">En savoir plus</a></div>
             </div>
         </div>
 <br><br> <br>
         <h3 class="text-center">--- GENIE CIVILE ---</h3>
         <div class="row home-services">
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
+              <img src="img/services/batiment.png"  style="height:90px;"alt="image">
               <h3><a href="#">Batiments</a></h3>
               <div class="read-more"><a href="services.php#electricite">En savoir plus</a></div>
             </div>
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
+              <img src="img/services/metalique.png"  style="height:90px;"alt="image">
               <h3><a href="#">Construction Metalique</a></h3>
               <div class="read-more"><a href="services.php#distribution">En savoir plus</a></div>
             </div>
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Ouvrage d'assainissements</a></h3>
+              <img src="img/services/assainissement.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Assainissements</a></h3>
               <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
             </div>
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Ouvrage hydraulyques</a></h3>
+              <img src="img/services/hydraulique.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Hydraulyques</a></h3>
               <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
             </div>
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Adduction d'eau potable</a></h3>
+              <img src="img/services/hydrauagricole.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Amenagement hydro-agricole</a></h3>
               <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
             </div>
-            <div class="single-business col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
-              <img src="img/home/representation.jpg"  style="height:90px;"alt="image">
-              <h3><a href="#">Infrastructure routieres</a></h3>
+              <img src="img/services/forage.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Forage</a></h3>
+              <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-piggy-bank"></span>-->
+              <img src="img/services/transport.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Infrastructure de transport</a></h3>
+              <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
+            </div>
+            <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
+              <!--<span class="flaticon-piggy-bank"></span>-->
+              <img src="img/services/arts.png"  style="height:90px;"alt="image">
+              <h3><a href="#">Ouvrages d’arts</a></h3>
               <div class="read-more"><a href="services.php#representation">En savoir plus</a></div>
             </div>
         </div>
