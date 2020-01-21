@@ -159,7 +159,7 @@ a {
   /* color: #333333; */
 }
 a:hover {
-  color: #08838f;
+  color: #2E3091;
   text-decoration: none;
 }
 a:active,
@@ -192,6 +192,13 @@ body {
   /*color: #797979;*/
   vertical-align: baseline;
 }
+
+@media (max-width: 992px) {
+ 
+.contact-text {
+  background: rgba(35, 36, 38, 0.9);;
+} 
+}
 .contact-text {
   /* font-family: 'Lato', sans-serif; */
   padding: 30px 6px ;
@@ -210,7 +217,6 @@ body {
   background:url('img/btp.jpg');
   background-repeat: no-repeat;
 }
-
 .acurate {
   margin: 0;
   padding: 0;
@@ -559,8 +565,8 @@ div#sticker {
   margin-left: 10px;
 }
 .slider-area .slider-1 .read-more ul li:last-child a:hover {
-  background: #153607;
-  border: 2px solid #153607;
+  background: #2E3091;
+  border: 2px solid #2E3091;
 }
 .slider-area .slider-1 .read-more ul li a {
   background: #153607;
@@ -1291,8 +1297,8 @@ div#sticker {
   transition: all 0.5s ease 0s;
 }
 .free-consult .get-free-consult a:hover {
-  background: #153607;
-  border: 2px solid #153607;
+  background: #2E3091;
+  border: 2px solid #2E3091;
 }
 /*-------------------------------------
 10.Footer Start Here 

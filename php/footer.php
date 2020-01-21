@@ -2,8 +2,11 @@
       <!-- Partner Logo Area Start Here -->
       <div class="client-logo-area">
         <div class="container">
-          <h2>Ils nous font confiance</h2>
-          <div class="client-logo">
+          <h2>NOS PARTENAIRES</h2>
+          <p>Nous bénéficions des expertises variées d’un vaste réseau de particuliers à travers le monde : <br>
+              Canada, Allemagne, Brésil, France, Turquie, Grande Bretagne, Belgique, Chine, Inde, Corée du sud et partout en Afrique Centrale et de l’Ouest. 
+              </p>
+          <!-- <div class="client-logo">
             <div class="single-logo">
               <a href="#"><img src="img/partenaires/partenaire1.png" alt="logo partenaire"></a>
             </div>
@@ -25,7 +28,7 @@
             <div class="single-logo">
               <a href="#"><img src="img/partenaires/partenaire7.png" alt="logo partenaire"></a>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
       <!-- Partner Logo Area End Here -->
@@ -84,7 +87,7 @@
                   <u>Siège social: </u>sise à Ouaga 2000 (secteur 53) non loin de la maternité de Bogodogo Trame d’accueil; <br> 01 BP 1370 Ouagadougou 01 <br>
                   <u>Tél:</u>  (226) 70 75 13 44 – 64 49 66 06 – 63 76 94 66 <br>
                   <u>IFU:</u>  00128609E ; <u>RCCM:</u>  BFOUA2019B9365 ;  <u>CNSS:</u> 1328993B <br>
-                  <u>Email:</u>  contact@aegdevelopment.com <br>
+                  <u>Email:</u>  <a href="mailto:contact@aegdevelopment.com">contact@aegdevelopment.com</a>  <br>
                   <u>Site web: </u> <a href="http://www.aegdevelopment.com">www.aegdevelopment.com</a>
                 </p>
               <div class="footer-social-media">
@@ -104,7 +107,7 @@
         <div class="row">
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             <div class="copy-right-text">
-              <p>&copy; Copyright AEGD, tous droit reservés. <a href="http://digital-co.ci" target="blank"> By AEGDeveloppement</a> </p>
+              <p>&copy; Copyright AEGD, tous droit reservés. <a href="http://aegdevelopment.com" target="blank"> By AEGDeveloppement</a> </p>
             </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">

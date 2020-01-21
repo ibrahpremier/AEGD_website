@@ -3,7 +3,7 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Welcome | sicomp</title>
+    <title>Accueil | AFRICA EAGLES</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -378,7 +378,7 @@
                 <!-- <li><i class="fa fa-map-marker" aria-hidden="true"></i></li> -->
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+226) 64 49 66 06</li>
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+226) 70 75 14 44 </li>
-                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> saegdevelopment19@gmail.com</li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:contact@aegdevelopment.com">contact@aegdevelopment.com</a> </li>
               </ul>
           </div>
         </div>
