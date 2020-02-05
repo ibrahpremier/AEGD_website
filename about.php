@@ -3,7 +3,7 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Welcome | Auston Corporate Home Page</title>
+    <title>A propos | Africa Eagles Group Developper</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 

@@ -20,7 +20,7 @@
             onePage: !1,
             meanDisplay: "block",
             removeElements: "",
-            siteLogo: "<a href='index.html'></a>"
+            siteLogo: "<a href='index.php'></a>"
         };
         n = e.extend(a, n);
         var t = window.innerWidth || document.documentElement.clientWidth;

@@ -82,9 +82,9 @@
                 <p>
                 AEGD Sarl au capital de 1.000.000 F CFA <br>
                   <u>Siège social: </u>sise à Ouaga 2000 (secteur 53) non loin de la maternité de Bogodogo Trame d’accueil; <br> 01 BP 1370 Ouagadougou 01 <br>
-                  <u>Tél:</u>  (226) 70 75 13 44 – 64 49 66 06 – 63 76 94 66 <br>
-                  <u>IFU:</u>  00128609E ; <u>RCCM:</u>  BFOUA2019B9365 ;  <u>CNSS:</u> 1328993B <br>
-                  <u>Email:</u>  contact@aegdevelopment.com <br>
+                  <u>Tél:</u> (+226) <a href="tel:+22670751344"> 70 75 13 44</a> | <a href="tel:+22664496606 ">64 49 66 06 </a> | <a href="tel:+22663769466">63 76 94 66</a> <br>
+                  <!-- <u>IFU:</u>  00128609E ; <u>RCCM:</u>  BFOUA2019B9365 ;  <u>CNSS:</u> 1328993B <br> -->
+                  <u>Email:</u> <a href="mailto:contact@aegdevelopment.com"> contact@aegdevelopment.com </a><br>
                   <u>Site web: </u> <a href="http://www.aegdevelopment.com">www.aegdevelopment.com</a>
                 </p>
               <div class="footer-social-media">
