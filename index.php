@@ -3,7 +3,7 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Accueil | AFRICA EAGLES</title>
+    <title>Welcome | sicomp</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -73,7 +73,7 @@
 				<div id="slider-direction-2" class="t-cn slider-direction">
 					<div class="slider-content t-cn s-tb slider-1">
 						<div class="title-container s-tb-c title-compress">
-							<div class="medium-text" >Genie Civil</div>
+							<div class="medium-text" >Genie-Civil</div>
 							<h1 class="title1" style="background: rgba(0, 0, 0, 0.72)">Batiment et travaux publics</h1>
 							<div class="read-more">
 								<ul>
@@ -180,7 +180,7 @@
             </div>
         </div>
 <br><br> <br>
-        <h3 class="text-center">--- GENIE CIVILE ---</h3>
+        <h3 class="text-center">--- GENIE-CIVIL ---</h3>
         <div class="row home-services">
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
@@ -191,7 +191,7 @@
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
               <!--<span class="flaticon-piggy-bank"></span>-->
               <img src="img/services/metalique.png"  style="height:90px;"alt="image">
-              <h3><a href="#">Construction Metalique</a></h3>
+              <h3><a href="#">Construction Métallique</a></h3>
               <div class="read-more"><a href="services.php#distribution">En savoir plus</a></div>
             </div>
             <div class="single-business col-lg-3 col-md-3 col-sm-6 col-xs-12">
@@ -378,7 +378,7 @@
                 <!-- <li><i class="fa fa-map-marker" aria-hidden="true"></i></li> -->
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+226) 64 49 66 06</li>
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+226) 70 75 14 44 </li>
-                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:contact@aegdevelopment.com">contact@aegdevelopment.com</a> </li>
+                <li><i class="fa fa-envelope-o" aria-hidden="true"></i> saegdevelopment19@gmail.com</li>
               </ul>
           </div>
         </div>

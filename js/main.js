@@ -298,7 +298,7 @@ Business active
 ------------------------------ */
 
   $('nav#dropdown').meanmenu({
-    siteLogo: "<a href='./'><img src='img/logo-mobile.png' alt='LOGO AEGD' /></a>"
+    siteLogo: "<a href='./'><img src='' alt='LOGO EAGD' /></a>"
   });
 
   $('#nav li.has-submenu > a').on('click', function(e){

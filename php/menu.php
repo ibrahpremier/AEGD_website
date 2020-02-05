@@ -31,9 +31,9 @@
                   <div class="mean-push"></div>
                   <nav id="dropdown" style="display: none;">
                     <ul>
-                      <li class="active"><a href="./">Accueil</a>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">A propos de nous</a></li>
-                      <li><a href="./#services">Nos Services</a></li>
+                        <li><a href="services.php">Nos Services</a></li>
                         <li><a href="./#contactus">Contact</a></li>
                     </ul>
                   </nav>
